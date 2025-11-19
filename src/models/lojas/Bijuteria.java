@@ -1,0 +1,41 @@
+package models.lojas;
+
+import models.Data;
+import models.Endereco;
+import models.Loja;
+
+import java.util.Arrays;
+
+public class Bijuteria extends Loja {
+
+    private double metaVendas;
+
+    public Bijuteria(String nome, int quantidadeFuncionarios, double salarioBaseFuncionario,
+                     Endereco endereco, Data dataFundacao, double metaVendas, int tamanhoEstoque) {
+
+        super(nome, quantidadeFuncionarios, salarioBaseFuncionario, endereco, dataFundacao, tamanhoEstoque);
+
+        this.metaVendas = metaVendas;
+    }
+    
+    public double getMetaVendas() {
+        return metaVendas;
+    }
+
+    public void setMetaVendas(double metaVendas) {
+        this.metaVendas = metaVendas;
+    }
+
+    @Override
+    public String toString() {
+        return "models.Loja{" +
+                "nome='" + getNome() + '\'' +
+                ", quantidadeFuncionarios=" + getQuantidadeFuncionarios() +
+                ", salarioBaseFuncionario=" + getSalarioBaseFuncionario() +
+                ", endereco=" + getEndereco() +
+                ", dataFundacao=" + getDataFundacao() +
+                ", metaVendas=" + metaVendas +
+                ", estoqueProdutos=" + Arrays.toString(getEstoqueProdutos()) +
+                '}';
+    }
+}
