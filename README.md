@@ -12,17 +12,16 @@
 
 ---
 
-### 🫐 Tecnologias Utilizadas
+### 🫐 Tecnologias
 
 * **Java** 21
 * IntelliJ IDEA Ultimate
 
 ---
 
-### 🍓 Organização das Classes
+### 🍓 Organização
 
 * `models/`: Entidades, classes principais (`Produto`, `Loja`, `Shopping`...)
-* `create/`: Classes responsáveis pela criação interativa de objetos (`CreateStore`, `CreateProduct`)
 * `lojas/`: Subclasses de `Loja`
 *  `main`: menu principal
 
