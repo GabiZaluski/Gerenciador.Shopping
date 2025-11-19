@@ -14,7 +14,7 @@
 
 ### 🫐 Tecnologias Utilizadas
 
-* Java 21
+* **Java** 21
 * IntelliJ IDEA Ultimate
 
 ---
