@@ -6,6 +6,7 @@
 
 ### 🥭 Resumo
 
+
 * Criar e gerenciar **lojas** (nome, funcionários, salários, endereço, estoque...)
 * Criar e gerenciar **produtos** (nome, preço, validade)
 * Gerenciar o **Shopping** (quantidade lojas, seguro + caro, lojas por tipo...)
