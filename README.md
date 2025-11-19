@@ -24,7 +24,7 @@
 
 * `models/`: Entidades, classes principais (`Produto`, `Loja`, `Shopping`...)
 * `lojas/`: Subclasses de `Loja`
-*  `main`: menu principal
+*  `main`: Menu principal
 
 ---
 
