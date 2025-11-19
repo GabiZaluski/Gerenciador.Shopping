@@ -31,4 +31,4 @@
 ### 🥑 Programador
 
 * Gabriel Zaluski Carvalho da Silva
-* **Análise e Desenvolvimento de Sistemas (UNISINOS)**
+* Análise e Desenvolvimento de Sistemas **(UNISINOS)**
