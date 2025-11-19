@@ -21,7 +21,11 @@
 
 ### 🍓 Organização das Classes
 
-*
+* `models/`: Contém as classes principais do domínio do projeto (`Store`, `Product`, `Shopping`, etc.);
+* `create/`: Classes responsáveis pela criação interativa de objetos (`CreateStore`, `CreateProduct`);
+* `subStores/`: Subclasses que herdam de `Store` e representam diferentes tipos de lojas;
+*  `Main.java`: Ponto de entrada do programa, contendo o menu principal.
+
 *
 *
 
