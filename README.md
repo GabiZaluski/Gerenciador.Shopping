@@ -22,9 +22,9 @@
 ### 🍓 Organização das Classes
 
 * `models/`: Entidades, classes principais (`Produto`, `Loja`, `Shopping`...)
-* `create/`: Classes responsáveis pela criação interativa de objetos (`CreateStore`, `CreateProduct`);
-* `subStores/`: Subclasses que herdam de `Store` e representam diferentes tipos de lojas;
-*  `Main.java`: Ponto de entrada do programa, contendo o menu principal.
+* `create/`: Classes responsáveis pela criação interativa de objetos (`CreateStore`, `CreateProduct`)
+* `lojas/`: Subclasses de `Loja`
+*  `main`: menu principal
 
 ---
 
