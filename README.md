@@ -20,7 +20,7 @@
 
 ---
 
-### 🍋 Organização
+### 🍍 Organização
 
 * `models/`: Entidades, classes principais (`Produto`, `Loja`, `Shopping`...)
 * `lojas/`: Subclasses de `Loja`
