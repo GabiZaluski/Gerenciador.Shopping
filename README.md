@@ -4,7 +4,7 @@
 
 ---
 
-### 🥭 Resumo
+### 🍋 Resumo
 
 
 * Criar e gerenciar **lojas** (nome, funcionários, salários, endereço, estoque...)
