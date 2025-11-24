@@ -4,7 +4,7 @@
 
 ---
 
-### 🍋 Resumo
+### 🍅 Resumo
 
 
 * Criar e gerenciar **lojas** (nome, funcionários, salários, endereço, estoque...)
@@ -20,7 +20,7 @@
 
 ---
 
-### 🍓 Organização
+### 🍋 Organização
 
 * `models/`: Entidades, classes principais (`Produto`, `Loja`, `Shopping`...)
 * `lojas/`: Subclasses de `Loja`
