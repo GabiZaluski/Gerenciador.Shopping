@@ -6,20 +6,20 @@
 
 ---
 
-### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/de77584e-3007-4f67-8427-b90046afef24" /> Execução
-
-* Java 21 instalado
-* Clone o repositório:
-   ```bash
-   git clone [https://github.com/GabiZaluski/Gerenciador.Shopping.git](https://github.com/GabiZaluski/Gerenciador.Shopping.git)
-
----
-
 ### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/32d9602a-69b9-4fd2-93b2-5c3dd26f55de" /> Tecnologias
 
 * Java 21
 * IntelliJ IDEA Ultimate
 ---
+
+### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/de77584e-3007-4f67-8427-b90046afef24" /> Execução
+
+* Abra a pasta do projeto na sua **IDE** (Recomendado: IntelliJ)
+* Encontre o arquivo principal **(Main.java)**
+* Clique com o botão direito e selecione **Run**  
+
+---
+
 
 ### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/f582babe-f1f6-4378-a1d4-6f502c7ee0a3" /> Organização
 
