@@ -16,7 +16,7 @@
 
 * Clone o repositório na sua IDE (Idealmente o **Intellij**)
   ```bash
- https://github.com/GabiZaluski/Gerenciador.Shopping.git
+  https://github.com/GabiZaluski/Gerenciador.Shopping.git
 * Encontre o arquivo principal **(main)**
 * Clique com o botão direito e selecione **Run**  
 
