@@ -14,11 +14,11 @@
 
 ### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/de77584e-3007-4f67-8427-b90046afef24" /> Execução
 
-* Clone o repositório na sua IDE (Idealmente o **Intellij**)
+* Clone o repositório via **Terminal**
   ```bash
   git clone https://github.com/GabiZaluski/Gerenciador.Shopping.git
-* Encontre o arquivo **main**
-* Clique com o botão direito e selecione **Run**  
+* Abra o projeto na sua IDE (idealmente **Intellij**)
+* Execute o arquivo **main**
 
 ---
 
