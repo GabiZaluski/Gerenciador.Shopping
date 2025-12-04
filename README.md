@@ -1,15 +1,17 @@
 ### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/26aac393-0f05-43e0-bb30-d80da136bb2e" /> **Gerenciador de Shopping** 
 
-* Programa em Java
-
----
-
-### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/de77584e-3007-4f67-8427-b90046afef24" /> Resumo
-
-
 * Criar e gerenciar **lojas** (nome, funcionários, salários, endereço, estoque...)
 * Criar e gerenciar **produtos** (nome, preço, validade)
 * Gerenciar o **Shopping** (quantidade lojas, seguro + caro, lojas por tipo...)
+
+---
+
+### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/de77584e-3007-4f67-8427-b90046afef24" /> Execução
+
+* Java 21 instalado
+* Clone o repositório:
+   ```bash
+   git clone [https://github.com/GabiZaluski/Gerenciador.Shopping.git](https://github.com/GabiZaluski/Gerenciador.Shopping.git)
 
 ---
 
@@ -17,7 +19,6 @@
 
 * Java 21
 * IntelliJ IDEA Ultimate
-
 ---
 
 ### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/f582babe-f1f6-4378-a1d4-6f502c7ee0a3" /> Organização
