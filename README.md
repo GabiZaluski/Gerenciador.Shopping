@@ -8,7 +8,7 @@
 
 ### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/32d9602a-69b9-4fd2-93b2-5c3dd26f55de" /> Tecnologias
 
-* Java 21
+* **Java** 21
 * IntelliJ IDEA Ultimate
 ---
 
