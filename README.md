@@ -14,8 +14,9 @@
 
 ### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/de77584e-3007-4f67-8427-b90046afef24" /> Execução
 
-* Abra a pasta do projeto na sua **IDE** (Recomendado: IntelliJ)
-* Encontre o arquivo principal **(Main.java)**
+* Clone o repositório na sua IDE (Idealmente o **Intellij**)
+* https://github.com/GabiZaluski/Gerenciador.Shopping.git
+* Encontre o arquivo principal **(main)**
 * Clique com o botão direito e selecione **Run**  
 
 ---
