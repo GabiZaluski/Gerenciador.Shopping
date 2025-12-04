@@ -31,5 +31,5 @@
 ### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/9aa1bcff-f35a-4c4f-bd9c-896ce100aa39" /> Programador
 
 * Gabriel Zaluski Carvalho da Silva
+* Engenharia de Dados
 * Análise e Desenvolvimento de Sistemas **(UNISINOS)**
-* 🔗 [Repositório no GitHub](https://github.com/GabiZaluski?tab=repositories)
