@@ -1,6 +1,6 @@
 ### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/26aac393-0f05-43e0-bb30-d80da136bb2e" /> **Gerenciador de Shopping** 
 
-* Programa em **Java**
+* Programa em Java
 
 ---
 
