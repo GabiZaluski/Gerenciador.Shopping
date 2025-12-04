@@ -4,7 +4,7 @@
 
 ---
 
-### 🍓 Resumo
+### <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/de77584e-3007-4f67-8427-b90046afef24" /> Resumo
 
 
 * Criar e gerenciar **lojas** (nome, funcionários, salários, endereço, estoque...)
@@ -13,14 +13,14 @@
 
 ---
 
-### 🫐 Tecnologias
+### <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/32d9602a-69b9-4fd2-93b2-5c3dd26f55de" /> Tecnologias
 
-* **Java** 21
+* Java 21
 * IntelliJ IDEA Ultimate
 
 ---
 
-### 🍍 Organização
+### <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/f582babe-f1f6-4378-a1d4-6f502c7ee0a3" /> Organização
 
 * `models/`: Entidades, classes principais (`Produto`, `Loja`, `Shopping`...)
 * `lojas/`: Subclasses de `Loja`
@@ -28,7 +28,7 @@
 
 ---
 
-### 🥑 Programador
+### <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/d86789c6-8304-4027-b4d7-b392b71bb6c0" /> Programador
 
 * Gabriel Zaluski Carvalho da Silva
 * Análise e Desenvolvimento de Sistemas **(UNISINOS)**
