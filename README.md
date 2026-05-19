@@ -6,7 +6,7 @@
 
 ---
 
-### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/32d9602a-69b9-4fd2-93b2-5c3dd26f55de" /> Tecnologias
+### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/69523732-9d05-4d0a-acdc-885fb6a7323d" /> Tecnologias
 
 * **Java** 21
 * IntelliJ IDEA Ultimate
