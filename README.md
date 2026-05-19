@@ -12,7 +12,7 @@
 * IntelliJ IDEA Ultimate
 ---
 
-### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/de77584e-3007-4f67-8427-b90046afef24" /> Execução
+### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/3c208cf8-4741-40a1-ae43-6a7a4ac57275" /> Execução
 
 * Clone o repositório via **Terminal**
   ```bash
