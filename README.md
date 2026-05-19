@@ -31,7 +31,9 @@
 
 ---
 
-### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/9aa1bcff-f35a-4c4f-bd9c-896ce100aa39" /> Programador
+### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/9aa1bcff-f35a-4c4f-bd9c-896ce100aa39" /> 
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/0198b87d-371d-4609-85af-a40dc60baf1a" />
+Programador
 
 * Gabriel Zaluski Carvalho da Silva
 * Análise e Desenvolvimento de Sistemas **(UNISINOS)**
