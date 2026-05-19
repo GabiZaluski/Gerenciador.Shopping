@@ -23,7 +23,7 @@
 ---
 
 
-### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/f582babe-f1f6-4378-a1d4-6f502c7ee0a3" /> Organização
+### <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/622d6c76-f994-42ab-80e4-d4fbaed161e6" /> Organização
 
 * `models/`: Entidades, classes principais (`Produto`, `Loja`, `Shopping`...)
 * `lojas/`: Subclasses de `Loja`
